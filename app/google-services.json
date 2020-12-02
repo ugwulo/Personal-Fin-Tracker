@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "287694703851",
+    "firebase_url": "https://personalfinancetracker-bf14c.firebaseio.com",
+    "project_id": "personalfinancetracker-bf14c",
+    "storage_bucket": "personalfinancetracker-bf14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287694703851:android:8e8702e2b9ff7d72aa42ae",
+        "android_client_info": {
+          "package_name": "dev.ugwulo.firestorm_personal_fin_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287694703851-lntvhiulc3hhtoj5um86o33gicpl67b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.ugwulo.firestorm_personal_fin_tracker",
+            "certificate_hash": "ea14ce5c901a01802844dc2ad14d20e3152669ea"
+          }
+        },
+        {
+          "client_id": "287694703851-3j1r92ove5dn6g7erbig0155vmfbmc7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAPPQo3h_Q5E1SUNDMU0gPwh7JWcG9pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287694703851-3j1r92ove5dn6g7erbig0155vmfbmc7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
